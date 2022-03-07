@@ -2,6 +2,4 @@
 
 Testing Git Commands
 
-sdlknf
-d;sajgnsd;lk
-,msdna
+This are some test Changes to see if it gets updated after I git push them
