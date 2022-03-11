@@ -1,0 +1,46 @@
+h1 {
+    font-family: Lemonada;
+    color: #38ceba
+  }
+  mark {
+    color: rgb(199, 49, 69);
+  }
+  
+  body{
+      color: aliceblue;
+  }
+
+  .rotating {
+    display: block;
+    max-height: 500px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .rotating:hover {
+    animation: ease-in-out;
+    transform: scale(1.05);
+  }
+
+  .JoJo img:last-child {
+    display: none;
+  }
+  .JoJo:hover img:last-child {
+    display: block;
+    position: relative;
+    max-height: 279px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .JoJo img:first-child {
+    display: block;
+    position: relative;
+    max-height: 279px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .JoJo:hover img:first-child {
+    display: none;
+  }
